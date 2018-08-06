@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateMicroservice", "DateMicroservice\DateMicroservice.csproj", "{32AA1B68-4F96-41A2-860A-C20C20D29F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateMicroservice", "DateMicroservice\DateMicroservice.csproj", "{32AA1B68-4F96-41A2-860A-C20C20D29F38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateMicroservice.Test", "DateMicroservice.Test\DateMicroservice.Test.csproj", "{2503E5A3-54D5-4440-A1E4-D065B2DC16A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateMicroservice.Test", "DateMicroservice.Test\DateMicroservice.Test.csproj", "{2503E5A3-54D5-4440-A1E4-D065B2DC16A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
